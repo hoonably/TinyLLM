@@ -40,8 +40,6 @@
 Jetson Orin Nano 8GB RAM
 [link](https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit)
 python: 3.10.2
-CUDA:
-(추가 필요)
 
 ### Evaluation Result 
 nan: Failed inference (memory issue)
